@@ -1,0 +1,14 @@
+project: aquim-test
+
+apps:
+  api:
+    type: server
+    framework: python
+    path: api
+    port: 8000
+    build: dockerfile
+
+  web:
+    type: frontend
+    framework: vite
+    path: web

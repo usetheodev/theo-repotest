@@ -13,7 +13,7 @@ class APIHandler(BaseHTTPRequestHandler):
             self._json(200, {
                 "name": "Theo Repotest",
                 "version": "1.0.0",
-                "description": "Theo — Full Pipeline Test",
+                "description": "Theo — CI Green, Full Pipeline",
                 "deploy_method": os.getenv("THEO_DEPLOY_METHOD", "github-push"),
             })
         else:

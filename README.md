@@ -22,3 +22,4 @@ J-17 LIVE step events test 1780731622
 step events live 1780732288
 sponsor live 1780732601
 sponsor realtime watch 1780733235
+sponsor watch #3 1780733594

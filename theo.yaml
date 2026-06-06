@@ -1,4 +1,4 @@
-project: aquim-test
+project: teste
 
 apps:
   api:

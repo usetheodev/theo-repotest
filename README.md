@@ -31,3 +31,4 @@ validate tabs 1780736924
 loki test 1780737361
 loki persisted 1780751287
 layer 2 markers 1780752898
+validate L2 markers v2 1780753222

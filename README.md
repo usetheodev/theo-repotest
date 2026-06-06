@@ -28,3 +28,4 @@ synthetic started fix 1780735058
 BFF flush fix 1780735579
 post-revert validation 1780736178
 validate tabs 1780736924
+loki test 1780737361

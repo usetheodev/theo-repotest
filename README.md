@@ -24,3 +24,4 @@ sponsor live 1780732601
 sponsor realtime watch 1780733235
 sponsor watch #3 1780733594
 watch #4 1780734251
+synthetic started fix 1780735058

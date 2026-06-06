@@ -36,3 +36,4 @@ L2 markers v3 1780753491
 L4 marker parsing validation 2026-06-06T14:11:46Z
 L5 rich failure context validation 2026-06-06T14:35:11Z
 L5 sponsor visual validation 2026-06-06T14:40:43Z
+L6 deployments grid Running ghost fix 2026-06-06T14:51:37Z

@@ -39,3 +39,5 @@ L5 sponsor visual validation 2026-06-06T14:40:43Z
 L6 deployments grid Running ghost fix 2026-06-06T14:51:37Z
 J-17 full closure validation 2026-06-06T15:29:15Z
 <!-- preview-test-1780827614 -->
+
+<!-- retry-after-preview-fix-1780828126 -->

@@ -34,3 +34,4 @@ if __name__ == "__main__":
     print(f"REGRESSION TEST 2026-06-07 — REGRESSION TEST 2026-06-07 — Repotest API on port {PORT}")
     server.serve_forever()
 # PREVIEW branch — testing canonical preview chain — Trigger redeploy production via webhook (J-23 canonical namespace test 2026-06-07)
+# RBAC fix re-trigger 2026-06-07

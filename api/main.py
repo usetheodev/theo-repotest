@@ -1,4 +1,4 @@
-"""Theo REGRESSION-PREVIEW Repotest API — Python backend deployed via GitHub push"""
+"""Theo REGRESSION TEST 2026-06-07 — Repotest API — Python backend deployed via GitHub push"""
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import json
 import os
@@ -31,6 +31,6 @@ class APIHandler(BaseHTTPRequestHandler):
 
 if __name__ == "__main__":
     server = HTTPServer(("0.0.0.0", PORT), APIHandler)
-    print(f"REGRESSION TEST 2026-06-07 — REGRESSION-PREVIEW Repotest API on port {PORT}")
+    print(f"REGRESSION TEST 2026-06-07 — REGRESSION TEST 2026-06-07 — Repotest API on port {PORT}")
     server.serve_forever()
 # Trigger redeploy production via webhook (J-23 canonical namespace test 2026-06-07)

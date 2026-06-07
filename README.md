@@ -51,3 +51,5 @@ J-17 full closure validation 2026-06-06T15:29:15Z
 <!-- cr-creator-retry-1780830370 -->
 
 <!-- rbac-retry-1780830420 -->
+
+<!-- canonical-refactor-1780833577 -->

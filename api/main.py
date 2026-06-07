@@ -33,4 +33,8 @@ if __name__ == "__main__":
     server = HTTPServer(("0.0.0.0", PORT), APIHandler)
     print(f"REGRESSION TEST 2026-06-07 — REGRESSION TEST 2026-06-07 — Repotest API on port {PORT}")
     server.serve_forever()
-# Trigger redeploy production via webhook (J-23 canonical namespace test 2026-06-07)
+# PREVIEW branch — testing canonical preview chain — Trigger redeploy production via webhook (J-23 canonical namespace test 2026-06-07)
+# RBAC fix re-trigger 2026-06-07
+# RBAC live retry 2026-06-07
+# webhook retry after theo-api rollback
+# watcher test 2026-06-07

@@ -38,3 +38,4 @@ if __name__ == "__main__":
 # RBAC live retry 2026-06-07
 # webhook retry after theo-api rollback
 # watcher test 2026-06-07
+# regression test final 17:16:51

@@ -36,3 +36,4 @@ if __name__ == "__main__":
 # PREVIEW branch — testing canonical preview chain — Trigger redeploy production via webhook (J-23 canonical namespace test 2026-06-07)
 # RBAC fix re-trigger 2026-06-07
 # RBAC live retry 2026-06-07
+# webhook retry after theo-api rollback

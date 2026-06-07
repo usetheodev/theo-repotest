@@ -31,6 +31,6 @@ class APIHandler(BaseHTTPRequestHandler):
 
 if __name__ == "__main__":
     server = HTTPServer(("0.0.0.0", PORT), APIHandler)
-    print(f"Repotest API running on port {PORT}")
+    print(f"REGRESSION TEST 2026-06-07 — Repotest API on port {PORT}")
     server.serve_forever()
 # Trigger redeploy production via webhook (J-23 canonical namespace test 2026-06-07)

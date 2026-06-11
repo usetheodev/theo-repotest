@@ -51,3 +51,5 @@ Triggers J-23 preview canonical chain end-to-end against dev-public:
 - Wildcard TLS via DNS-01 LE
 - URL: <tenant>-teste-<entryApp>-preview-pr-N.preview-dev.usetheo.dev
 
+<!-- T6.2 retry @ 182514Z — webhook secret now wired -->
+

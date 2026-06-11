@@ -53,3 +53,5 @@ Triggers J-23 preview canonical chain end-to-end against dev-public:
 
 <!-- T6.2 retry @ 182514Z — webhook secret now wired -->
 
+<!-- Logs streaming validation @ 190039Z — Promtail re-pointed at in-cluster loki -->
+

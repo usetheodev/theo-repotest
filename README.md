@@ -38,3 +38,16 @@ L5 rich failure context validation 2026-06-06T14:35:11Z
 L5 sponsor visual validation 2026-06-06T14:40:43Z
 L6 deployments grid Running ghost fix 2026-06-06T14:51:37Z
 J-17 full closure validation 2026-06-06T15:29:15Z
+
+## T6.2 Cleanroom preview test — 2026-06-11
+
+LIVE re-validation post-Cleanroom TOTAL chain (commits 07326c68, 21c0fae1, f4ccb6c2, b76b9e9f, 4e32e474 + OpenBao manual provisioning per follow-up plan 2026-06-11-vault-bootstrap-canonical-in-task-setup).
+
+Triggers J-23 preview canonical chain end-to-end against dev-public:
+- webhook → cloud-dev.usetheo.dev/api/v1/webhooks/github
+- PreviewEnvironment CR + canonical labels
+- Namespace theo-tn-994580dad62e46df-teste-preview-pr-N
+- ArgoCD App destination canonical formula
+- Wildcard TLS via DNS-01 LE
+- URL: <tenant>-teste-<entryApp>-preview-pr-N.preview-dev.usetheo.dev
+

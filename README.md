@@ -38,3 +38,4 @@ L5 rich failure context validation 2026-06-06T14:35:11Z
 L5 sponsor visual validation 2026-06-06T14:40:43Z
 L6 deployments grid Running ghost fix 2026-06-06T14:51:37Z
 J-17 full closure validation 2026-06-06T15:29:15Z
+<!-- J-17 logs streaming canonical validation 2026-06-12T07:53:54Z — post T1.9+T1.10 fixes (Loki NodePort + Promtail intra-cluster) -->

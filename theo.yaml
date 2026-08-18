@@ -5,6 +5,7 @@ apps:
     type: server
     framework: python
     runtime: python
+    start: python main.py
     path: api
     port: 8000
     build: dockerfile

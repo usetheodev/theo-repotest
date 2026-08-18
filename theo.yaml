@@ -4,6 +4,7 @@ apps:
   api:
     type: server
     framework: python
+    runtime: python
     path: api
     port: 8000
     build: dockerfile
